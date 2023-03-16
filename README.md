@@ -13,7 +13,7 @@ This project is a web-based tool that generates secure passwords with customizab
 
 ## Installation
 
-To use the password generator, simply access the live website at <a href="">Random Password Generator</a> .
+To use the password generator, simply access the live website at <a href="https://rpg.anshuldev.com/">Random Password Generator</a> .
 
 ## Usage
 
